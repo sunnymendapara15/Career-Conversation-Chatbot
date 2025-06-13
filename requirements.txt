@@ -1,0 +1,6 @@
+langchain-groq
+python-dotenv
+gradio
+pypdf
+requests
+groq
